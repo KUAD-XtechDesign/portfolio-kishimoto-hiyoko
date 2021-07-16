@@ -209,6 +209,7 @@ report
   border: 3px solid #999;
 }
 
+.outline.pic iframe
 .report .outline .txt {
   flex: 1;
   padding-left: 20px;
